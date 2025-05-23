@@ -1,8 +1,11 @@
+<div align="center">
 # ArcesTeam
 
-![ArcesTeam Logo](../assets/ArcesTeam_Logo.png)
+![ArcesTeam Logo](https://github.com/ArcesTeam/.github/blob/main/assets/ArcesTeam_Logo.png)
 
 ## Hi there 👋 Welcome to Arces Team
+
+</div>
 
 ## 关于 ArcesTeam 🌈
 
@@ -18,4 +21,4 @@ ArcesTeam 是专注于 Minecraft Mod 开发的开源团队。
 ## 参与贡献 🙋‍♀️
 
 我们欢迎任何形式的支持和建议！
-目前项目组织尚待完善，具体细节请参阅 [CONTRIBUTING.md](../CONTERIBUTING.md) 了解贡献指南。
+目前项目组织尚待完善，具体细节请参阅 [CONTRIBUTING.md](https://github.com/ArcesTeam/.github/blob/main/CONTERIBUTING.md) 了解贡献指南。
