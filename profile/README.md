@@ -1,7 +1,5 @@
 <div align="center">
 
-# ArcesTeam
-
 ![ArcesTeam Logo](https://github.com/ArcesTeam/.github/blob/main/assets/ArcesTeam_Logo.png)
 
 ## Hi there 👋 Welcome to Arces Team
