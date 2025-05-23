@@ -20,4 +20,4 @@ ArcesTeam 是专注于 Minecraft Mod 开发的开源团队。
 ## 参与贡献 🙋‍♀️
 
 我们欢迎任何形式的支持和建议！
-目前项目组织尚待完善，具体细节请参阅 [CONTRIBUTING.md](https://github.com/ArcesTeam/.github/blob/main/CONTERIBUTING.md) 了解贡献指南。
+目前项目组织尚待完善，具体细节请参阅 [CONTRIBUTING.md](https://github.com/ArcesTeam/.github/blob/main/CONTRIBUTING.md) 了解贡献指南。
